@@ -1,0 +1,6 @@
+{
+  "allowed_apps": [
+    "chrome.exe"
+  ],
+  "grace_period": 3.0
+}

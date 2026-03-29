@@ -54,7 +54,7 @@ POLL_INTERVAL = 0.5   # saniye
 DEFAULT_GRACE = 3.0   # saniye
 
 # Renk paleti
-BG          = "#080810"
+BG          = "#080813"
 SURFACE     = "#10101e"
 SURFACE2    = "#191928"
 BORDER      = "#2a2a40"
